@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[comissio]]></title>
         <description><![CDATA[comissio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/comissio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 08:22:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jul 2016 08:42:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/comissio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7aa425e-7a62-4039-bd15-dfaa92406c43.png">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7aa425e-7a62-4039-bd15-dfaa92406c43.png</link>
             <guid isPermaLink="false">5fb856ff-a8cb-410e-98c2-78f9c05e7079</guid>
             <pubDate>Sun, 03 Jul 2016 08:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What is Comissio?</p>]]></description>
+            <link>https://thegrid.ai/comissio/what-is-comissio/index.html</link>
+            <guid isPermaLink="false">57c08470-27c4-452f-a11b-5ee63f3840a6</guid>
+            <pubDate>Sun, 03 Jul 2016 08:42:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
