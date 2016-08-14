@@ -1,19 +1,4 @@
-name: comissio
-favicon: null
-layout_spectrum: 0.3676
 typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.7894851104356349
   saturation: 0.2671019893605262
   rhythmicContrast: 0.8470883569680154
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3676
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: comissio
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: COMISSIO
 purpose: []
